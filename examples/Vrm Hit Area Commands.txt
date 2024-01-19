@@ -1,0 +1,12 @@
+Head:
+/speak voice={{char}} Aww how cute! | /popup <h3> {{char}} <h3> "Aww how cute!" [😊]
+Chest:
+/speak voice={{char}} Stop that you little pervert! | /popup <h3>{{char}} <h3> "Stop that you little pervert!" [😡]
+Hands:
+/speak voice={{char}} Someone's feeling handsy today?. | /popup <h3> {{char}} <h3> "Someone's feeling handsy today?" [🖐]
+Groin/Butt: 
+/speak voice={{char}} Off limits you little pervert. | /popup <h3> {{char}} <h3> "Off limits you little pervert" [🔒]
+Legs:
+/speak voice={{char}} Are you a thigh guy?. | /popup <h3> {{char}} <h3> "Are you a thigh guy?"  [🦵]
+Feet:
+/speak voice={{char}} What are you some kind of foot freak? | /popup <h3> {{char}} <h3> "What are you some kind of foot freak?"  [🦶]
