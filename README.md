@@ -3,3 +3,5 @@ Get the extension from here https://github.com/SillyTavern/Extension-VRM Thank @
 Get animations from mixamo.com
 Convert using https://github.com/ButzYung/SystemAnimatorOnline and export as bvh for compatibility with the extension.
 Have fun, and remember praise @keiji for not only putting up with me- but all the time and effort he has spent to make this possible for all of you.
+
+Tutorials will be added as soon as integration into ST main has happened, find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
