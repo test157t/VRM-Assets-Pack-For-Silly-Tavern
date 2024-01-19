@@ -1,12 +1,12 @@
 Head:
-/speak voice={{char}} Aww how cute! | /popup <h3> {{char}} <h3> "Aww how cute!" [😊]
+/speak voice={{char}} Example Text! | /popup <h3> {{char}} <h3> "Example Text" [Emoji]
 Chest:
-/speak voice={{char}} Stop that you little pervert! | /popup <h3>{{char}} <h3> "Stop that you little pervert!" [😡]
+/speak voice={{char}} Example Text! | /popup <h3>{{char}} <h3> "Example Text" [Emoji]
 Hands:
-/speak voice={{char}} Someone's feeling handsy today?. | /popup <h3> {{char}} <h3> "Someone's feeling handsy today?" [🖐]
+/speak voice={{char}} Example Text?. | /popup <h3> {{char}} <h3> "Example Text" [Emoji]
 Groin/Butt: 
-/speak voice={{char}} Off limits you little pervert. | /popup <h3> {{char}} <h3> "Off limits you little pervert" [🔒]
+/speak voice={{char}} Example Text. | /popup <h3> {{char}} <h3> "Example Text" [Emoji]
 Legs:
-/speak voice={{char}} Are you a thigh guy?. | /popup <h3> {{char}} <h3> "Are you a thigh guy?"  [🦵]
+/speak voice={{char}} Example Text?. | /popup <h3> {{char}} <h3> "Example Text"  [Emoji]
 Feet:
-/speak voice={{char}} What are you some kind of foot freak? | /popup <h3> {{char}} <h3> "What are you some kind of foot freak?"  [🦶]
+/speak voice={{char}} Example Text? | /popup <h3> {{char}} <h3> "Example Text"  [Emoji]
