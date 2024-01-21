@@ -1,0 +1,2 @@
+Copy contents of Speech Recognition Commands.text into command map window inside of Sillytavern.
+Hit Area Mappings go inside text boxes for individual vrm model mapping; you need to modify the exmamples for individual usecase.
