@@ -13,3 +13,6 @@ Tutorials will be added as soon as integration into ST Staging has happened, fin
 [Short Demo of it in Silly Tavern]: https://www.youtube.com/watch?v=PNqTEAQfu_w
 [Installation Tutorial]: https://www.youtube.com/watch?v=aqmbenc5knU
 [Mixamo Animations Tutorial]: https://www.youtube.com/watch?v=uS0rCKt1Mo4
+
+[Please Make Sure you are on the 'Staging Branch' of Silly Tavern.]
+We have had about 50 help requests, and every single one had to do with people being on the wrong branch.
