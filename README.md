@@ -12,3 +12,4 @@ Have fun, and remember praise @keij for not only putting up with me- but all the
 Tutorials will be added as soon as integration into ST Staging has happened, find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
 [Short Demo of it in Silly Tavern]: https://www.youtube.com/watch?v=PNqTEAQfu_w
 [Installation Tutorial]: https://www.youtube.com/watch?v=aqmbenc5knU
+[Mixamo Animations Tutorial]: https://www.youtube.com/watch?v=uS0rCKt1Mo4
