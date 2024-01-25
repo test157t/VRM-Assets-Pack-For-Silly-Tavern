@@ -7,8 +7,6 @@ Get the extension from here https://github.com/SillyTavern/Extension-VRM Thank @
 Get animations from [mixamo.com](https://www.mixamo.com/#/)
 Convert using https://github.com/ButzYung/SystemAnimatorOnline and export as bvh for compatibility with the extension.
 
-Have fun, and remember praise @keij for not only putting up with me- but all the time and effort he has spent to make this possible for all of you.
-
 Tutorials? find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
 [Short Demo of it in Silly Tavern]: https://www.youtube.com/watch?v=PNqTEAQfu_w
 
@@ -21,3 +19,5 @@ Tutorials? find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVX
 ![image](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern/assets/111318644/45c8c74f-ffe6-48d0-a1ec-deef5c62844b)
 
 We have had about 50 help requests regarding missing vrm folders, and every single one had to do with people being on the wrong branch.
+
+Have fun, and remember praise @keij for not only putting up with me- but all the time and effort he has spent to make this possible for all of you.
