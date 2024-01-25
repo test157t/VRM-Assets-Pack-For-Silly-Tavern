@@ -16,3 +16,4 @@ Tutorials will be added as soon as integration into ST Staging has happened, fin
 
 [Please Make Sure you are on the 'Staging Branch' of Silly Tavern.]
 We have had about 50 help requests, and every single one had to do with people being on the wrong branch.
+![image](https://github.com/test157t/VRM-Assets-Pack-For-Silly-Tavern/assets/111318644/45c8c74f-ffe6-48d0-a1ec-deef5c62844b)
