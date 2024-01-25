@@ -9,9 +9,11 @@ Convert using https://github.com/ButzYung/SystemAnimatorOnline and export as bvh
 
 Have fun, and remember praise @keij for not only putting up with me- but all the time and effort he has spent to make this possible for all of you.
 
-Tutorials will be added as soon as integration into ST Staging has happened, find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
+Tutorials? find them here: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
 [Short Demo of it in Silly Tavern]: https://www.youtube.com/watch?v=PNqTEAQfu_w
+
 [Installation Tutorial]: https://www.youtube.com/watch?v=aqmbenc5knU
+
 [Mixamo Animations Tutorial]: https://www.youtube.com/watch?v=uS0rCKt1Mo4
 
 [Please Make Sure you are on the 'Staging Branch' of Silly Tavern.]
