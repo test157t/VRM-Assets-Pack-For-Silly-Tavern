@@ -1,14 +1,16 @@
-[111 animations for use in SillyTaverns VRM extension], they use modified rigs to work properly. (Not just any BVH or fbx will work) 
+[112 animations for use in SillyTaverns VRM extension], they use modified rigs to work properly. (Not just any BVH or fbx will work) 
 
 [Example text files of st-scripts] that work in speech recognition and hitmaps.
 
 [6 Example VRM models] "Do with as you will" -Nitral
 
-[Extension]. Get the extension from here https://github.com/SillyTavern/Extension-VRM 
+[Modified ST-Discord Inspired Theme]: https://github.com/nyxkrage/st-discord-inspired
 
-[mixamo.com] Get animations from: https://www.mixamo.com/#/
+[Extension]: https://github.com/SillyTavern/Extension-VRM 
 
-[Convert using]: https://github.com/ButzYung/SystemAnimatorOnline and export as bvh for compatibility with the extension.
+[Animations]: https://www.mixamo.com/#/
+
+[Convert mixamo FBX animations to BVH using]: https://github.com/ButzYung/SystemAnimatorOnline 
 
 [Tutorials? find them here]: https://www.youtube.com/channel/UCrplvcIsafuZVhkxUXVXugg
 
