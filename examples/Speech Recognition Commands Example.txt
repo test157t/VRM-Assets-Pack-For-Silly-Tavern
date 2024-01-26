@@ -11,7 +11,7 @@
 {{char}}, send me a selfie? =/send "Can you send me a selfie?" | /trigger | /sd selfie of {{getvar::appearance}},
 {{char}}, change scenery = /send "Can we change scenery?" | /trigger | /autobg,
 {{char}}, roll a d20 = /send "Can you roll me a d20?" | /trigger | /echo {{char}} Rolls a {{pipe}}: {{roll:d20}}, 
-{{char}}, roll a d20 = /send "Can you roll me a d6?"  | /trigger | /echo {{char}} Rolls a {{pipe}}: {{roll:d6}}, 
+{{char}}, roll a d6 = /send "Can you roll me a d6?"  | /trigger | /echo {{char}} Rolls a {{pipe}}: {{roll:d6}}, 
 {{char}}, sit = /send "Can you please sit?" | /vrmmotion,
 {{char}}, stand = /send "Can you please stand?" | /trigger | /vrmmotion stand,
 {{char}}, say hi = /send "Can you please say hi?"  | /trigger | /vrmmotion greet,
