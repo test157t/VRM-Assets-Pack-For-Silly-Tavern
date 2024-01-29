@@ -2,8 +2,12 @@
     "name": "Discord Dark MUI",
     "movingUIState": {
         "sheld": {
-            "width": 698,
+            "width": 729,
             "height": 876
+        },
+        "right-nav-panel": {
+            "width": 248,
+            "height": 884
         }
     }
 }
