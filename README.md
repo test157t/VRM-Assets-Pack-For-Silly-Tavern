@@ -1,6 +1,6 @@
 112 animations for use in SillyTaverns VRM extension, they use modified rigs to work properly. (Not just any BVH or fbx will work) 
 
-*Updated* Smaller pack of the vrm animations i currently use with the forked version of the vrm extension, this fork also self contains some animations tied into other extensions i have released, such as the voiceforge or intiface extensions.
+*Updated* Smaller pack of the vrm animations i currently use with the forked version of the vrm extension, this fork also self contains some animations tied into other extensions i have released, such as the voiceforge <https://github.com/test157t/Extension-Voiceforge> or intiface <https://github.com/test157t/Extension-Intiface> extensions. 
 
 Example text files of st-scripts, that work in speech recognition and hitmaps.
 
