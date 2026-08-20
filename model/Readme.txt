@@ -1,2 +1,3 @@
 Instructons for VRM Models:
-Copy the models inside of model folder to: Sillytavern/public/assets/vrm/model
+Animations should be placed in the SillyTavern user asset folder vrm/models.
+
