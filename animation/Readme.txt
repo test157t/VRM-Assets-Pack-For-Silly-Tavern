@@ -1,2 +1,2 @@
 Instructons for VRM Animations:
-Copy animations to: Sillytavern/public/assets/vrm/animation
+Animations should be placed in the SillyTavern user asset folder vrm/amimations.
